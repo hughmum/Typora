@@ -66,3 +66,6 @@ int main(){
 }
 ```
 
+![image-20220711131519286](https://gitee.com/hughmum/typere-drawing-bed/raw/master/img/image-20220711131519286.png)
+
+![image-20220711131543102](https://gitee.com/hughmum/typere-drawing-bed/raw/master/img/image-20220711131543102.png)
